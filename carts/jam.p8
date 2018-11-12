@@ -32,7 +32,7 @@ if g then
 cls(0)
 pr(":("..w,64,64)
 else
-cls(0);pr("s:"..u,0,0,1);r(x,y,x+2,y+2,6)
+cls(0);pr("s:"..u,0,0,12);r(x,y,x+2,y+2,6)
 for i=1,t do
 q=e[i]
 r(q.x,q.y,q.x+4,q.y+4,s(6)+1)
