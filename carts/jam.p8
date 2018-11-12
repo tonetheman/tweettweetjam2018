@@ -9,7 +9,7 @@ g=false
 r=rect
 pr=print
 s=rnd
-t=20
+t=15
 u=0
 c=128
 for i=1,t do e[i]={x=s(c),y=s(50)} end
